@@ -18,6 +18,7 @@ const index = `
     <head>
     <body>
         <h1>First Node Page!</h1>
+		<p>Server-side JavaScript is cool!</p>
     </body>
 </html>`;
 
